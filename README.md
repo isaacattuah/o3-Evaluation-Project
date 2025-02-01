@@ -3,20 +3,22 @@
 This project is designed to evaluate o3's performance across a variety of programming tasks at different difficulty levels. It includes several Python programs that demonstrate low, medium, and high complexity tasks, allowing for a broad assessment of programming capabilities.
 
 ## Project Overview
+Each task demonstrates different programming complexity levels:
 
-- **Low-Level Task:** An interactive Snake game implemented in snake.py. This program uses basic game logic and graphics handling with Pygame to create a classic Snake game.
-- **Medium-Level Task:** A simulation of a ball bouncing inside a tesseract in tesseract.py. This script demonstrates more advanced concepts such as 4-D transformations, projections to 3-D, and animation using Matplotlib.
-- **High-Level Task:** A basic first-person shooter (FPS) raycaster implemented in basic_fps.py. This file contains a minimal raycasting engine, providing a Wolfenstein?like 3D experience using only basic Python libraries (and Pygame) to illustrate 2D-to-3D rendering techniques.
-
-Additionally, prompts.txt contains the original programming task prompts and instructions used to generate and evaluate these programs.
+- **Low-Level Task:** An interactive Snake game (snake.py) using basic game logic and Pygame graphics.
+- **Medium-Level Task:** A tesseract simulation (tesseract.py) with 4-D transformations and Matplotlib animations.
+- **High-Level Task:** A basic FPS raycaster (basic_fps.py) implementing 2D-to-3D rendering techniques.
 
 ## Project Structure
 
-??? basic_fps.py    # High-level task: Basic FPS raycasting engine using Python and Pygame
-??? snake.py        # Low-level task: Interactive Snake game built with Pygame
-??? tesseract.py    # Medium-level task: 4D tesseract simulation with a bouncing ball (Matplotlib & NumPy)
-??? prompts.txt     # Contains the original prompts for each programming task
-??? requirements.txt # Lists the Python dependencies required by the project
+```
+.
+├── basic_fps.py    # High-level task: Basic FPS raycasting engine
+├── snake.py        # Low-level task: Interactive Snake game
+├── tesseract.py    # Medium-level task: 4D tesseract simulation
+├── prompts.txt     # Original programming task prompts
+└── requirements.txt # Project dependencies
+```
 
 ## Requirements
 
