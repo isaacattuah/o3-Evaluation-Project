@@ -36,24 +36,29 @@ A requirements.txt file is provided to simplify installation of these dependenci
    ```sh
    python3 -m venv venv
    source venv/bin/activate
+   ```
 
 3. **Set Up a Virtual Environment (Recommended):**
     ```sh
     pip install -r requirements.txt
+    ```
 
 ## Usage
 
 Run the Snake Game (Low-Level Task):
     ```sh
     python snake.py
+    ```
 
 Run the Tesseract Bouncing Ball Simulation (Medium-Level Task):
     ```sh
     python tesseract.py
+    ```
 
 Run the Basic FPS Raycaster (High-Level Task):
     ```sh
     python basic_fps.py
+    ```
 
 ## Evaluation
 This project is used to evaluate o3's performance on:
