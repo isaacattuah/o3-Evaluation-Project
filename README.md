@@ -48,17 +48,17 @@ A requirements.txt file is provided to simplify installation of these dependenci
 ## Usage
 
 **Run the Snake Game (Low-Level Task):**
-    ```sh
+    ```
     python snake.py
     ```
 
 **Run the Tesseract Bouncing Ball Simulation (Medium-Level Task):**
-    ```sh
+    ```
     python tesseract.py
     ```
 
 **Run the Basic FPS Raycaster (High-Level Task):**
-    ```sh
+    ```
     python basic_fps.py
     ```
 
