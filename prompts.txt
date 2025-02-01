@@ -1,0 +1,6 @@
+1. Write a python script of a ball bouncing inside a tesseract
+
+2. Write a Python script for an interactive snake game :)
+
+3. Create a very basic first-person shooter that utilizes mainly basic Python libraries
+
